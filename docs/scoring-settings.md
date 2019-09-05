@@ -26,7 +26,7 @@
 
 ## Kickers
 
-|Kickers|League Value|Yahoo Default Value|
+|Statistic|League Value|Yahoo Default Value|
 |--- |--- |--- |
 |Field Goals 0-19 Yards|3||
 |Field Goals 20-29 Yards|3||
@@ -43,7 +43,7 @@
 
 ## Defense/Special Teams
 
-|Defense/Special Teams|League Value|Yahoo Default Value|
+|Statistic|League Value|Yahoo Default Value|
 |--- |--- |--- |
 |Sack|1||
 |Interception|2||
